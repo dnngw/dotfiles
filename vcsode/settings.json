@@ -1,0 +1,20 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "workbench.settings.applyToAllProfiles": ["editor.tabSize"],
+  "editor.detectIndentation": false,
+  "files.autoSave": "afterDelay",
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "One Dark Pro Night Flat",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+
+  // prisma
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma",
+    "editor.formatOnSave": true
+  }
+
+}
